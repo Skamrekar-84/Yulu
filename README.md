@@ -77,11 +77,9 @@ The analysis focuses on understanding how variables such as weather, season, tem
 
 ---
 
-## Project Link
-
-Colab Notebook:
-https://colab.research.google.com/drive/1n0qCAkx5yC5y1W_l9_phoSiiOt_qASc5?usp=sharing
-
+## Project Files
+Google Drive Folder:
+https://drive.google.com/drive/folders/1dhtMqClvtu9QB0FtjaKUuSTq2vF9XtRc?usp=drive_link
 ---
 
 ## Conclusion

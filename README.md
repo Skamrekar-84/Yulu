@@ -1,6 +1,5 @@
 # Yulu_Hypothesis_Testing
 Yulu - Hypothesis Testing and Exploratory Data Analysis project using Python to analyse bike-sharing demand patterns based on weather, season, humidity, temperature, and working day conditions through statistical testing and data visualisation.
-# Yulu - Hypothesis Testing
 
 ## Project Overview
 
